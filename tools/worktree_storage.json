@@ -1,0 +1,11 @@
+{
+  "sparse_patterns": [
+    "/*",
+    "!/artifacts/",
+    "!/docs/first-level/**/*.png",
+    "!/docs/first-level/**/*.zip",
+    "!/docs/first-level/**/*.mp4",
+    "!/docs/menu-settings/**/*.png"
+  ],
+  "source_directories": []
+}
